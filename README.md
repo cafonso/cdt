@@ -1,13 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Infelizmente esta aplicação ainda não pode ser executada, mas praticamente faltam-lhe algumas linhas no Gemfile.
 
-Things you may want to cover:
+* Ruby 2.5.1, rails 2.5.1 é necessário fazer bundle update após uns quantos erros
 
-* Ruby version
-
-* System dependencies
+TODO
 
 * Configuration
 
