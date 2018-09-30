@@ -65,3 +65,5 @@ gem 'spree', '~> 3.6'
 gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
 gem 'spree_i18n', github: 'spree-contrib/spree_i18n', branch: 'master'
+gem 'spree_simple_sales', path: '../ss/spree_simple_sales'
+

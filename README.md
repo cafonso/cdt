@@ -18,4 +18,5 @@ TODO
 
 * Deployment instructions
 
-* ...
+* Vamos lá melhorar com o devise
+
